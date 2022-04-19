@@ -1,3 +1,3 @@
 "use strict";
-const a = 'Teste TS!(web)';
+const a = 'Teste TS! caraio deu certo';
 console.log(a);
