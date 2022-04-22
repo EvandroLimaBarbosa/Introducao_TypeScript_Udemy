@@ -1,0 +1,14 @@
+Para iniciar um servidor precisa colocar no prompt de comando o seguinte comando:
+
+entre na pasta primeiro usando o comando 
+
+cd C:\Users\keity\OneDrive\Área de Trabalho\Evandro\curso-typescript\introducao
+ 
+e depois use:
+
+npm start
+
+
+para atualizar o TypeScript para java script precisa colocar o comando 
+
+tsc -w
