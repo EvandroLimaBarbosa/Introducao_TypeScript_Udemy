@@ -12,3 +12,9 @@ npm start
 para atualizar o TypeScript para java script precisa colocar o comando 
 
 tsc -w
+
+
+
+codigo para deixar uma linha como comentario:
+
+ctrl + k + c
